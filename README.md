@@ -32,7 +32,8 @@ I work primarily with JavaScript and TypeScript, building responsive web applica
 
 ### Interests
 
-- Anime watcher
+- Anime fan
+- MLBB player
 
 ### Contact
 
