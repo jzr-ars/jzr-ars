@@ -26,9 +26,9 @@ I work primarily with JavaScript and TypeScript, building responsive web applica
 
 ### What I Do
 
-- **Web application development** — building complete features from frontend to backend integration
-- **API integration & automation** — connecting third-party services, scrapers, and scheduled workflows
-- **Interface implementation** — turning designs into responsive, accessible, production-ready pages
+- Web application development
+- API integration & automation
+- Interface implementation
 
 ### Contact
 
