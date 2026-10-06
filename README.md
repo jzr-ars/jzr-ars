@@ -29,6 +29,7 @@ I work primarily with JavaScript and TypeScript, building responsive web applica
 - Web application development
 - API integration & automation
 - Interface implementation
+- Anime watcher apps & streaming interfaces
 
 ### Contact
 
