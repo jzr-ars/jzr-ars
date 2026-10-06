@@ -26,10 +26,13 @@ I work primarily with JavaScript and TypeScript, building responsive web applica
 
 ### What I Do
 
-- Web application development — full features with Vue, React, and Node.js
-- API integration & automation — REST APIs, scrapers, and scheduled workflows
-- Interface implementation — responsive pages from design to production
-- Anime watcher apps — search, tracklists, and streaming interfaces
+- Web application development
+- API integration & automation
+- Interface implementation
+
+### Interests
+
+- Anime watcher
 
 ### Contact
 
