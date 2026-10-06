@@ -1,6 +1,6 @@
 # Jezzer Arsenio
 
-Frontend Developer specializing in JavaScript and TypeScript. I build responsive web applications using Vue, React, and Node.js, with a focus on clean interfaces and maintainable code.
+I work primarily with JavaScript and TypeScript, building responsive web applications with Vue, React, and Node.js. I care about clean interfaces, readable code, and the small details that make software easy to use. Most of my time goes into turning ideas into working products, from small utilities and automation scripts to full web applications used in daily life.
 
 ### Technical Skills
 
