@@ -1,15 +1,23 @@
-### Hi, I'm Jezzer Arsenio 👋
+# Jezzer Arsenio
 
-Shipping JS/TS experiments on the web — lost, but deploying anyway.
+Frontend Developer specializing in JavaScript and TypeScript. I build responsive web applications using Vue, React, and Node.js, with a focus on clean interfaces and maintainable code.
 
-**What I tinker with:**
-`JavaScript` `TypeScript` `Vue` `React` `Node.js`
+### Technical Skills
 
-**Currently:**
-- 🧪 Rebuilding from zero — fresh start, clean slate
-- 🌱 Learning in public
-- 💬 Open for collabs & freelance
+**Languages:** JavaScript, TypeScript, HTML, CSS
+**Frontend:** Vue, React, Tailwind CSS
+**Backend & Tools:** Node.js, REST APIs, Git, GitHub Actions
+
+### Areas of Work
+
+- Web application development
+- API integration and automation
+- UI implementation from design to production
+
+### Contact
+
+- GitHub: [@jzr-ars](https://github.com/jzr-ars)
+- Open for freelance projects and collaboration
 
 ---
-![stats](https://github-readme-stats.vercel.app/api?username=jzr-ars&show_icons=true&theme=default&hide_border=true)
-![top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jzr-ars&layout=compact&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jzr-ars&show_icons=true&hide_border=true)
