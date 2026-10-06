@@ -24,11 +24,11 @@ I work primarily with JavaScript and TypeScript, building responsive web applica
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff&style=flat-square)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=githubactions&logoColor=fff&style=flat-square)
 
-### Areas of Work
+### What I Do
 
-- Web application development
-- API integration and automation
-- UI implementation from design to production
+- **Web application development** — building complete features from frontend to backend integration
+- **API integration & automation** — connecting third-party services, scrapers, and scheduled workflows
+- **Interface implementation** — turning designs into responsive, accessible, production-ready pages
 
 ### Contact
 
