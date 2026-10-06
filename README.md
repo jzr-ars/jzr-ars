@@ -30,7 +30,7 @@ I work primarily with JavaScript and TypeScript, building responsive web applica
 - API integration & automation
 - Interface implementation
 
-### Interests
+### Beyond Code
 
 - Anime fan
 - MLBB player
