@@ -1,6 +1,6 @@
 # Jezzer Arsenio
 
-I work primarily with JavaScript and TypeScript, building responsive web applications with Vue, React, and Node.js. I care about clean interfaces, readable code, and the small details that make software easy to use. Most of my time goes into turning ideas into working products, from small utilities and automation scripts to full web applications used in daily life.
+I work primarily with JavaScript and TypeScript, building responsive web applications with React, Node.js, and Bun. I care about clean interfaces, readable code, and the small details that make software easy to use. Most of my time goes into turning ideas into working products, from small utilities and automation scripts to full web applications used in daily life.
 
 ### Technical Skills
 
@@ -13,13 +13,13 @@ I work primarily with JavaScript and TypeScript, building responsive web applica
 
 **Frameworks & UI**
 
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?logo=vue.js&logoColor=fff&style=flat-square)
 ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000&style=flat-square)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?logo=tailwindcss&logoColor=fff&style=flat-square)
 
 **Backend & Workflow**
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=fff&style=flat-square)
+![Bun](https://img.shields.io/badge/Bun-000000?logo=bun&logoColor=fff&style=flat-square)
 ![REST API](https://img.shields.io/badge/REST_API-000000?logo=fastapi&logoColor=fff&style=flat-square)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff&style=flat-square)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=githubactions&logoColor=fff&style=flat-square)
